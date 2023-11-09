@@ -10,7 +10,7 @@ Real-time protection: Continuously monitors group activity, taking immediate act
 User-friendly interface: Provides an intuitive interface for group administrators to manage bot settings and review ban history.
 
 ### Installation
-To install the Intelligent Telegram Anti-Spam Bot, follow these steps:
+To install the Intelligent Telegram Anti-Spam Bot, follow these simple steps. If you know where to put your hands, it will take just a few minutes including downloads.
 ```
 > Install python
 > Install pip
