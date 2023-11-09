@@ -1,8 +1,10 @@
-# Intelligent Telegram Anti-Spam Bot
+# Intelligent Telegram Anti-Spam Sex Bots
 In today's interconnected world, online communication platforms have become integral parts of our daily lives. However, the anonymity and reach of these platforms also attract malicious actors who exploit them for spamming and spreading harmful content. This Python-based Telegram bot utilizes the power of artificial intelligence to identify and ban intrusive bots that disseminate sexually explicit content in public Telegram groups.
 
 ### Introduction
 The Intelligent Telegram Anti-Spam Bot safeguards public Telegram groups from the intrusion of bots that spam sexually explicit material. It employs AI to analyze profile pictures and identify patterns indicative of spam behavior. Upon detecting such behavior, the bot swiftly bans the offending bot, protecting the group's integrity and maintaining a safe and enjoyable environment for its members.
+
+Have you ever been member of a location based public group recently? If yes, you'll know they are assaulted by fake bots pretending to be sex workers, waiting to be contacted or even actively spamming content everywhere. Instead of limiting real users from accessing your group, with this bot you can keep these bots out.
 
 ### Features
 AI-powered spam detection: Leverages machine learning algorithms to accurately identify and classify spam messages.
